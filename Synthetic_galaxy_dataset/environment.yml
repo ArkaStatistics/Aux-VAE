@@ -1,0 +1,15 @@
+name: gal_env
+dependencies:
+  - python=3.8
+  - h5py
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - seaborn
+  - astropy
+  - fftw
+  - pip
+  - pip:
+    - pydoe2
+    - galsim
