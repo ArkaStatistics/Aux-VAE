@@ -13,3 +13,5 @@ Aux-VAE is an enhanced implementation of the variational autoencoder (VAE) that 
 To install Aux-VAE, clone this repository and install the required dependencies.
 
 The current setting demonstrates the implementation of Aux-VAE in the galaxy simulation data. To generate the dataset, use the codes provided in the "synthetic_galaxy_dataset" folder.
+
+The `models_all.py' file in the `Aux-VAE' folder contains various configurations of beta-VAE and Aux-VAE (including both MLP and CNN versions). Choose the appropriate model based on the specific settings required for your experiments.
